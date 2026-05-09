@@ -31,7 +31,7 @@ I do remember there being a 2012 client in the works, but I believe it may be lo
 
 Contains two RCCService related backups.
 
-I have not really tested these much because I honestly forgot how RCCService was setup back then.
+I have not really tested these much because I honestly forgot how to set up RCCService.
 
 ---
 
